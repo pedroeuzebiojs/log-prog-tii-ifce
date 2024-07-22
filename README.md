@@ -2,6 +2,12 @@
   Lógica de Programação
 </h1>
 
+# Roteiro
+
+- [Sobre](#sobre)
+- [Unidade 1: Algoritmos, compiladores e interpretadores, tipos de dados básicos](#unidade-1-algoritmos-compiladores-e-interpretadores-tipos-de-dados-básicos)
+- [Unidade 2: Variáveis e expressões](#unidade-2-variáveis-e-expressões)
+
 <p>
   <img src="./.github/Banner Lógica de Programação.jpg" alt="Banner Lógica de Programação" />
 </p>
