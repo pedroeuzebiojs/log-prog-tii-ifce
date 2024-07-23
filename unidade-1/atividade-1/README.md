@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://ifce.edu.br" target="_blanck">
-    <img src="https://i.imgur.com/PwRgxqO.jpg" alt="Logo do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)" width="100">
-  </a>
-</h1>
-
 **Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)**
 
 **Campus Baturité**
