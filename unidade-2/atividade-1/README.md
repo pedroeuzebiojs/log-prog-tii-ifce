@@ -4,7 +4,10 @@
 
 **Curso Técnico Subsequente em Informática para Internet**
 
-**Atividade 2 da disciplina de Lógica de Programação**
+**Atividade 1 da Unidade 2 da Disciplina de Lógica de Programação**
+
+**Redenção-CE** <br>
+**2024**
 
 **Identificação do Aluno**
 
