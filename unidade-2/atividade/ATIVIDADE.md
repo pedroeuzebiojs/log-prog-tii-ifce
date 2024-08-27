@@ -4,7 +4,7 @@
 
 **Curso Técnico Subsequente em Informática para Internet**
 
-**Atividade 1 da Unidade 2 da Disciplina de Lógica de Programação**
+**Atividade da Unidade 2 da Disciplina de Lógica de Programação**
 
 **Redenção-CE** <br>
 **2024**
