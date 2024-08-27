@@ -4,7 +4,7 @@
 
 **Curso Técnico Subsequente em Informática para Internet**
 
-**Atividade 1 da Unidade 1 da Disciplina de Lógica de Programação**
+**Atividade da Unidade 1 da Disciplina de Lógica de Programação**
 
 **Redenção-CE** <br>
 **2024**
@@ -19,51 +19,49 @@
 
 1. **Explique o que é um algoritmo**
 
-   **Resposta:** São passos a serem seguidos para resolver um problema
+Resposta: São passos a serem seguidos para resolver um problema.
 
 2. **Cite três algoritmos que estão presentes no seu dia a dia**
 
-   **Resposta:** Fazer um café, atravessar a rua, se levantar da cama
+Resposta: Fazer um café, atravessar a rua, se levantar da cama.
 
 3. **Discuta as vantagens e desvantagens das três principais formas de representação de algoritmos**
 
-   **Resposta:**
+<details>
+  <summary>Linguagem Natural</summary>
+  <ul>
+    <li>
+      Vantagens: Fácil de entender, flexível.
+    </li>
+    <li>
+      Desvantagens: Pode ser ambígua e imprecisa, difícil de traduzir para código real.
+    </li>
+  </ul>
+</details>
 
-    <details>
-      <summary>Linguagem Natural</summary>
-      <ul>
-        <li>
-          Vantagens: Fácil de entender, flexível
-        </li>
-        <li>
-          Desvantagens: Pode ser ambígua e imprecisa, difícil de traduzir para código real
-        </li>
-      </ul>
-    </details>
+<details>
+  <summary>Diagramas de Fluxo</summary>
+  <ul>
+    <li>
+      Vantagens: Visualização clara, fácil identificação de estruturas lógicas.
+    </li>
+    <li>
+      Desvantagens: Difícil para algoritmos complexos, difícil de modificar, complicado para representar detalhes.
+    </li>
+  </ul>
+</details>
 
-    <details>
-      <summary>Diagramas de Fluxo</summary>
-      <ul>
-        <li>
-          Vantagens: Visualização clara, fácil identificação de estruturas lógicas
-        </li>
-        <li>
-          Desvantagens: Difícil para algoritmos complexos, difícil de modificar, complicado para representar detalhes
-        </li>
-      </ul>
-    </details>
-
-    <details>
-      <summary>Pseudocódigo</summary>
-      <ul>
-        <li>
-          Vantagens: Flexibilidade e precisão, fácil de traduzir para código real, abstrai detalhes de implementação
-        </li>
-        <li>
-          Desvantagens: Exige algum conhecimento técnico, interpretação variável, potencial para ambiguidade
-        </li>
-      </ul>
-    </details>
+<details>
+  <summary>Pseudocódigo</summary>
+  <ul>
+    <li>
+      Vantagens: Flexibilidade e precisão, fácil de traduzir para código real, abstrai detalhes de implementação.
+    </li>
+    <li>
+      Desvantagens: Exige algum conhecimento técnico, interpretação variável, potencial para ambiguidade.
+    </li>
+  </ul>
+</details>
 
 4. **Escreva, utilizando pseudocódigo, um algoritmo para cada uma das situações a seguir:**
 
@@ -117,9 +115,9 @@ function trocarLampada() {
 trocarLampada();
 ```
 
-5. **Escreva, utilizando pseudocódigo, um algoritmo para cada uma das situações a seguir:**
+5. **Escreva, utilizando pseudocódigo, um algoritmo para cada uma das situações a seguir**
 
-**a. Escreva um algoritmo que receba dois números e realize a soma.**
+**a. Escreva um algoritmo que receba dois números e realize a soma:**
 
 ```js
 function somarDoisNumeros(numero1, numero2) {
@@ -136,7 +134,7 @@ const resultado = somarDoisNumeros(numero1, numero2);
 alert(`A soma de ${numero1} e ${numero2} é ${resultado}.`);
 ```
 
-**b. Escreva um algoritmo que receba um número e retorne o seu sucessor e o seu antecessor.**
+**b. Escreva um algoritmo que receba um número e retorne o seu sucessor e o seu antecessor:**
 
 ```js
 function obterSucessorEAntecessor(numero) {
@@ -158,7 +156,7 @@ alert(
 );
 ```
 
-**c. Faça um algoritmo que receba três notas, calcule e mostre a média aritmética**
+**c. Faça um algoritmo que receba três notas, calcule e mostre a média aritmética:**
 
 ```js
 function calcularMediaAritmetica(nota1, nota2, nota3) {
@@ -180,7 +178,7 @@ alert(
 );
 ```
 
-**d. Escreva um algoritmo que receba um número e retorne se esse número é par ou ímpar**
+**d. Escreva um algoritmo que receba um número e retorne se esse número é par ou ímpar:**
 
 ```js
 function verificarParOuImpar(numero) {
