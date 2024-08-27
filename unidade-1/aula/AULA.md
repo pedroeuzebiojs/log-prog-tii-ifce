@@ -17,7 +17,7 @@
 - Codificação
   - Escrever o algoritmo na linguagem de programação escolhida.
 
-## O que é um Algoritmo?
+## Algoritmo
 
 > "Algoritmo é uma sequência de passos que visa atingir um objetivo bem definido" (Forbellone, 1999).
 
@@ -74,7 +74,7 @@ alert(
 );
 ```
 
-## O que é um Programa?
+## Programa
 
 Programa é um conjunto de instruções usadas por um computador para realizar determinada tarefa.
 
@@ -94,7 +94,7 @@ Programa é um conjunto de instruções usadas por um computador para realizar d
 - Eclipse
 - Visual Studio Code
 
-## O que é uma Linguagem de Programação?
+## Linguagem de Programação
 
 > Segundo a definição da IEEE, "uma linguagem de programação é um conjunto de símbolos e regras sintáticas e semânticas usados para definir um programa de computador".
 
@@ -103,7 +103,7 @@ Programa é um conjunto de instruções usadas por um computador para realizar d
 - Alto nível
 - Baixo nível
 
-## O que são Paradigmas de Programação?
+## Paradigmas de Programação
 
 São um conjunto de conceitos e técnicas que definem como um programa deve ser organizado e escrito.
 
