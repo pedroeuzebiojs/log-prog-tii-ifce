@@ -1,6 +1,6 @@
 # Unidade 1 - Algoritmos, compiladores e interpretadores, tipos de dados básicos
 
-<p align="center">
+<p align="justify">
   Nesta unidade, serão discutidos os conceitos de algoritmos, suas aplicações e formas de representação. Também serão abordados os conceitos e diferenças entre compiladores e interpretadores e, finalmente, serão apresentados os tipos básicos de dados usados na programação.
 </p>
 
