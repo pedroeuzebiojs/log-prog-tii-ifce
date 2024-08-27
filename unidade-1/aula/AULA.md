@@ -1,4 +1,4 @@
-# Aula - Introdução à Programação
+# Aula - Introdução
 
 ## Computador
 
