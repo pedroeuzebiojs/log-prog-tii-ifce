@@ -4,13 +4,19 @@
 
 ## Roteiro
 
-- [Sobre](#sobre)
-- [Unidade 1: Algoritmos, compiladores e interpretadores, tipos de dados básicos](#unidade-1-algoritmos-compiladores-e-interpretadores-tipos-de-dados-básicos)
-- [Unidade 2: Variáveis e expressões](#unidade-2-variáveis-e-expressões)
+<ul>
+  <li>
+    <a href="#sobre">Sobre</a>
+  </li>
+  <li>
+    <a href="#unidade-1---algoritmos-compiladores-e-interpretadores-tipos-de-dados-básicos">Unidade 1 - Algoritmos, compiladores e interpretadores, tipos de dados básicos</a>
+  </li>
+  <li>
+    <a href="#unidade-2-variáveis-e-expressões">Unidade 2 - Variáveis e expressões</a>
+  </li>
+</ul>
 
-<p>
-  <img src="./.github/Banner Lógica de Programação.jpg" alt="Banner Lógica de Programação" />
-</p>
+![Banner de apresentação do repositório da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet](./.github/Banner.jpg)
 
 ## Sobre
 
@@ -18,11 +24,13 @@
   Esta disciplina foi construída para ser acessível a todos, independentemente do seu nível de conhecimento prévio em programação. Se você está começando no mundo da programação, irá encontrar nesta disciplina uma introdução amigável e acolhedora. Por outro lado, se você já tem alguma experiência na área, poderá aprimorar suas habilidades e aprofundar seu conhecimento.
 </p>
 
-## Unidade 1: Algoritmos, compiladores e interpretadores, tipos de dados básicos
+## Unidade 1 - Algoritmos, compiladores e interpretadores, tipos de dados básicos
 
-Nesta unidade, serão discutidos os conceitos de algoritmos, suas aplicações e formas de representação. Também serão abordados os conceitos e diferenças entre compiladores e interpretadores e, finalmente, serão apresentados os tipos básicos de dados usados na programação.
+<p align="justify">
+  Nesta unidade, serão discutidos os conceitos de algoritmos, suas aplicações e formas de representação. Também serão abordados os conceitos e diferenças entre compiladores e interpretadores e, finalmente, serão apresentados os tipos básicos de dados usados na programação.
+</p>
 
-Tópicos cobertos da unidade da disciplina:
+**Tópicos cobertos da unidade da disciplina:**
 
 - Algoritmos: conceitos e aplicações
 - Programas
@@ -31,15 +39,17 @@ Tópicos cobertos da unidade da disciplina:
 - Compiladores e interpretadores
 - Tipos de dados básicos
 
-## Unidade 2: Variáveis e expressões
+## Unidade 2 - Variáveis e expressões
 
-Nesta unidade, serão apresentados os conceitos e diferenças entre variáveis e constantes assim como a forma de atribuir valores a esses elementos. Também serão abordados os conceitos e formas de utilização das expressões aritméticas, relacionais e lógicas. Esclarecimento de dúvidas.
+<p align="justify">
+  Nesta unidade, serão apresentados os conceitos e diferenças entre variáveis e constantes assim como a forma de atribuir valores a esses elementos. Também serão abordados os conceitos e formas de utilização das expressões aritméticas, relacionais e lógicas. Esclarecimento de dúvidas.
+</p>
 
-Tópicos cobertos da unidade da disciplina:
+**Tópicos cobertos da unidade da disciplina:**
 
 - Definição e Declaração de Variáveis
 - Definição e Declaração de Constantes
 - Comando de Atribuição
-- Expressões Aritméticas,
-- Expressões Relacionais e
-- Expressões Lógicas.
+- Expressões Aritméticas
+- Expressões Relacionais
+- Expressões Lógicas
