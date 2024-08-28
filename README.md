@@ -16,7 +16,7 @@
   </li>
 </ul>
 
-![Banner de apresentação do repositório da disciplina de Desenvolvimento Web 1 do curso Técnico em Informática para Internet](./.github/Banner.jpg)
+![Banner de Apresentação do Repositório da Disciplina de Lógica de Programação do Curso Técnico em Informática para Internet do IFCE.](./.github/Banner.jpg)
 
 ## Sobre
 
