@@ -16,7 +16,7 @@
   </li>
 </ul>
 
-![Banner de Apresentação do Repositório da Disciplina de Lógica de Programação do Curso Técnico em Informática para Internet do IFCE.](./.github/Banner.jpg)
+![Banner de Apresentação do Repositório da Disciplina de Lógica de Programação do Curso Técnico em Informática para Internet do IFCE.](./assets/Banner.jpg)
 
 ## Sobre
 
