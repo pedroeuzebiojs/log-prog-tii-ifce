@@ -60,7 +60,7 @@
 
 ## Exemplo com Fluxograma
 
-![Exemplo com fluxograma](./.github/exemplo-com-fluxograma.png)
+![Exemplo com fluxograma](./assets/exemplo-com-fluxograma.png)
 
 ## Exemplo com Pseudocódigo
 
