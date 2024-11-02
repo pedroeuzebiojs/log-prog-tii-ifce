@@ -1,0 +1,23 @@
+{
+  "name": "aprendendojest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll",
+    "relatorio": "live-server --entry-file=\"test-report.html\"",
+    "prova": "concurrently --kill-others \"npm run watch\" \"npm run relatorio\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1",
+    "jest-html-reporter": "^3.10.2"
+  }
+}
