@@ -4,7 +4,7 @@
 
 **Atividade da Unidade 3 da Disciplina de Lógica de Programação**
 
-**Redenção-CE**
+**Baturité-CE**
 **2024**
 
 **Identificação do Aluno**
