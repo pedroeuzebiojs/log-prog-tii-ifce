@@ -1,4 +1,6 @@
-# Lógica de Programação
+<h1>
+  Lógica de Programação
+</h1>
 
 - [Sobre a disciplina](#sobre-a-disciplina)
 - [Unidade 1 - Algoritmos, compiladores e interpretadores, tipos de dados básicos](#unidade-1---algoritmos-compiladores-e-interpretadores-tipos-de-dados-básicos)
@@ -7,7 +9,7 @@
 - [Unidade 6 - Vetores e Matrizes](#unidade-6---vetores-e-matrizes)
 - [Unidade 7 - Funções](#unidade-7---funções)
 
-![Banner de Apresentação do Repositório da Disciplina de Lógica de Programação do Curso Técnico em Informática para Internet do IFCE.](./assets/banner.jpg)
+![Banner de apresentação do repositório da disciplina de Lógica de Programação do curso Técnico em Informática para Internet do IFCE.](./.github/banner.jpg)
 
 ## Sobre a disciplina
 
