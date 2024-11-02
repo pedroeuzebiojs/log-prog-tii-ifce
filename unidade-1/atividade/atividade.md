@@ -6,7 +6,7 @@
 
 **Atividade da Unidade 1 da Disciplina de Lógica de Programação**
 
-**Redenção-CE** <br>
+**Baturité-CE** <br>
 **2024**
 
 **Identificação do Aluno**
